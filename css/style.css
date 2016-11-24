@@ -1,0 +1,18 @@
+
+.upperbg {
+	background-color: "green";
+}
+
+.imginv {
+   -webkit-filter: invert(1);
+   filter: invert(1);
+   }
+
+.midtext center{
+	padding-top: 70px;
+}
+
+.homebg {
+	background-image: "assets\\happy-dog.jpg";
+	opacity:0.5;
+}

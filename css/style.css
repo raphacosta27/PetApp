@@ -16,3 +16,10 @@
 	background-image: "assets\\happy-dog.jpg";
 	opacity:0.5;
 }
+
+.waves-effect {
+	background-color: green;
+}
+.finish {
+	padding-top: 2%;
+}
